@@ -42,7 +42,7 @@ func main() {
 	fmt.Println(m2)
 
 	// Anonim Struct
-	// Sadece bir tane patron oldgunu düşünelim bir daha type oluşturmaya gerek yok :D
+	// Sadece bir tane patron oldgunu düşünelim bir daha type oluşturmaya gerek yok
 	theBoos := struct {
 
 		name string 
